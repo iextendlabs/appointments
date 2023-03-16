@@ -1,2 +1,2 @@
-# appointments
+# Appointments
 Saloon appointment system
